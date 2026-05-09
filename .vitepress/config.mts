@@ -67,7 +67,7 @@ export default defineConfigWithTheme<ThemeConfig>({
   ignoreDeadLinks: true,
   // 生成站点地图
   // sitemap: {
-  //   hostname: 'https://neko-daze.github.io/BLOG/',
+  //   hostname: 'https://neko-daze.github.io/NEKO/',
   // },
   title: "NEKO の 猫窝",
   description: "此处有NEKO出没",
