@@ -67,10 +67,10 @@ export default defineConfigWithTheme<ThemeConfig>({
   ignoreDeadLinks: true,
   // 生成站点地图
   // sitemap: {
-  //   hostname: 'https://vitepress-theme-bluearchive.vercel.app',
+  //   hostname: 'https://neko-daze.github.io/BLOG/',
   // },
-  title: "Sensei's 部落格",
-  description: "Sensei's 部落格",
+  title: "NEKO の 猫窝",
+  description: "此处有NEKO出没",
   themeConfig: {
     // navBar
     menuList: [
@@ -80,9 +80,9 @@ export default defineConfigWithTheme<ThemeConfig>({
 
     //banner区配置
     videoBanner: false,
-    name: "Sensei's 部落格",
-    welcomeText: 'Hello, VitePress',
-    motto: ['和你的日常，就是奇迹', '何気ない日常で、ほんの少しの奇跡を見つける物語。'],
+    name: "NEKO の 猫窝",
+    welcomeText: 'Hello, Sensei',
+    motto: ['平凡的日常中闪烁着彩色的伟大奇迹', '平凡な日常の中に、色彩豊かな偉大な奇跡が輝いている'],
     social: [
       { icon: 'github', url: 'https://github.com/' },
       { icon: 'bilibili', url: 'https://www.bilibili.com/' },
@@ -96,7 +96,7 @@ export default defineConfigWithTheme<ThemeConfig>({
     //footer配置
     footerName: 'Sensei',
     poweredList: [
-      { name: 'VitePress', url: 'https://github.com/vuejs/vitepress' },
+      { name: 'NEKO's Github', url: 'https://github.com/NEKO-Daze' },
       { name: 'GitHub Pages', url: 'https://docs.github.com/zh/pages' },
     ],
 
